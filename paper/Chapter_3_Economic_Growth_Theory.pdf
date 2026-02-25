@@ -1,0 +1,2182 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 432 >>
+stream
+BT /F1 24 Tf 70 700 Td (Chapter 3: Economic Growth - Theory) Tj ET
+BT /F1 14 Tf 70 660 Td (Detailed textbook-style chapter with theory, India context, and graphs) Tj ET
+BT /F1 12 Tf 70 620 Td (Includes: Classical, Harrod-Domar, Solow, MRW, Endogenous Growth, RBC, Institutions) Tj ET
+BT /F1 12 Tf 70 592 Td (Case Study 3.1 and Debate 3.1 integrated) Tj ET
+BT /F1 10 Tf 70 120 Td (Prepared in 40-page format) Tj ET
+50 90 500 650 re S
+endstream
+endobj
+3 0 obj
+<< /Length 910 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 2) Tj
+0 -19 Td
+(Table of Contents) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.1 Classical model and policy benchmark) Tj
+/F1 11 Tf
+0 -15 Td
+/F1 13 Tf
+(3.2 Harrod-Domar and planning arithmetic) Tj
+/F1 11 Tf
+0 -15 Td
+/F1 13 Tf
+(3.3 Solow model: steady state, convergence, TFP) Tj
+/F1 11 Tf
+0 -15 Td
+/F1 13 Tf
+(3.4 Human capital and MRW extension) Tj
+/F1 11 Tf
+0 -15 Td
+/F1 13 Tf
+(3.5 Endogenous growth theory) Tj
+/F1 11 Tf
+0 -15 Td
+/F1 13 Tf
+(3.6 Real Business Cycle theory) Tj
+/F1 11 Tf
+0 -15 Td
+/F1 13 Tf
+(3.7 Institutions, geography, and culture) Tj
+/F1 11 Tf
+0 -15 Td
+/F1 13 Tf
+(3.8 Schools of growth policy) Tj
+/F1 11 Tf
+0 -15 Td
+/F1 13 Tf
+(Case Study 3.1: India and 7%+ growth) Tj
+/F1 11 Tf
+0 -15 Td
+/F1 13 Tf
+(Debate 3.1: Institutions vs Geography) Tj
+/F1 11 Tf
+0 -15 Td
+/F1 13 Tf
+(Review notes and graphical appendix) Tj
+/F1 11 Tf
+0 -15 Td
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 3219 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 1) Tj
+0 -19 Td
+/F1 14 Tf
+(3.1 The Classical Model: The Baseline World) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(The classical model is the benchmark architecture of macroeconomics. Prices and wages are flexible,) Tj
+0 -15 Td
+(markets clear, and output is determined by real fundamentals: technology, preferences, and endowments.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Its pedagogical value is high because it offers a clean baseline. Once students internalize this) Tj
+0 -15 Td
+(world, all later theories can be taught as precise departures from assumptions: sticky prices,) Tj
+0 -15 Td
+(financial frictions, imperfect information, externalities, and coordination failures.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(In the strict classical setup, aggregate demand does not constrain output in a sustained way. Supply) Tj
+0 -15 Td
+(generates income, and income is spent on consumption or channelled through savings into investment.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(For India, this model is useful as a long-run anchor but incomplete as a short- to medium-run) Tj
+0 -15 Td
+(description. Formal-sector responses are often more classical; informal segments show rigidities and) Tj
+0 -15 Td
+(quantity constraints that slow self-correction.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.1.1 Say's Law: Supply Creates Its Own Demand) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Say's Law states that production generates income sufficient to purchase output in aggregate. In) Tj
+0 -15 Td
+(symbols, Y = C + S and Y = C + I imply S = I through interest-rate adjustment.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(A crucial clarification: the claim is about economy-wide equilibrium, not the saleability of each) Tj
+0 -15 Td
+(specific product. Relative gluts can occur, but a permanent general glut is ruled out under flexible) Tj
+0 -15 Td
+(prices and functioning finance.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Modern critique focuses on the speed and reliability of adjustment. If firms face credit constraints,) Tj
+0 -15 Td
+(uncertainty, or balance-sheet stress, higher desired saving may not convert quickly into higher) Tj
+0 -15 Td
+(investment.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(In developing contexts, incomplete financial intermediation can weaken the automaticity of S = I,) Tj
+0 -15 Td
+(making demand shortfalls relevant for prolonged periods.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.1.2 The Classical Labour Market: MPL = W/P) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Profit-maximizing firms hire labour until the real wage equals marginal product: W/P = MPL. Because) Tj
+0 -15 Td
+(MPL declines as employment rises, labour demand slopes downward in real-wage space.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Labour supply rises with the real wage as households trade leisure for consumption. With flexible) Tj
+0 -15 Td
+(wages, equilibrium employment is where labour demand intersects labour supply.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(In this framework, persistent involuntary unemployment does not exist. Observed unemployment is) Tj
+0 -15 Td
+(interpreted as voluntary, frictional, or transitional.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Empirically, however, real wages do not always adjust instantly. Contracts, institutions, bargaining,) Tj
+0 -15 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 2967 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 2) Tj
+0 -19 Td
+(and social norms can generate slow-moving labour market adjustments.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.1.3-3.1.6 Dichotomy, Neutrality, Policy, and India) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Classical dichotomy separates real from nominal determination. Real variables are governed by) Tj
+0 -15 Td
+(preferences, technology, and endowments. Nominal variables scale with money and prices.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Under MV = PY, with velocity stable and output fixed at potential in the long run, increases in money) Tj
+0 -15 Td
+(primarily raise the price level. This is long-run money neutrality.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Policy implication: stabilization activism is limited; the state should secure institutional) Tj
+0 -15 Td
+(foundations, rule of law, low inflation, and competitive market structures.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(For India, dualism matters. In formal sectors with better market integration, neutrality arguments are) Tj
+0 -15 Td
+(stronger over long horizons; in informal sectors with rigidities and credit frictions, nominal and) Tj
+0 -15 Td
+(demand disturbances can have persistent real effects.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.2 The Harrod-Domar Model: India's Planning Framework) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Harrod-Domar links growth to savings and capital productivity: g = s/v, where v is ICOR. The model) Tj
+0 -15 Td
+(offered planners a transparent arithmetic to translate growth targets into investment requirements.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Its appeal in early development planning came from operational simplicity under weak data systems. It) Tj
+0 -15 Td
+(aligned naturally with public-investment-led strategies.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(But the model is fragile: fixed coefficients, limited substitution, and knife-edge dynamics reduce) Tj
+0 -15 Td
+(realism. ICOR is not purely technical; it reflects governance, project design, and implementation) Tj
+0 -15 Td
+(quality.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(India's planning history shows that investment quantity alone is insufficient without productivity,) Tj
+0 -15 Td
+(human capital, and institutional capability.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.2.2 Knife-Edge Instability) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Harrod distinguished actual growth, warranted growth, and natural growth. If actual growth exceeds) Tj
+0 -15 Td
+(warranted growth, firms revise expectations upward and over-invest, amplifying expansion. If below) Tj
+0 -15 Td
+(warranted growth, pessimism amplifies contraction.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Because restoring forces are weak, the system behaves like a knife edge around a narrow balanced-) Tj
+0 -15 Td
+(growth path.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This instability result motivated the search for models with smoother adjustment mechanisms,) Tj
+0 -15 Td
+(especially Solow's substitution-based framework.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 2863 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 3) Tj
+0 -19 Td
+(In planning practice, instability can manifest through stop-go cycles in capacity utilization,) Tj
+0 -15 Td
+(inventories, and investment programs.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.2.4 Mahalanobis Two-Sector Extension) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Mahalanobis highlighted sectoral allocation: g = lambda/betaK + \(1-lambda\)/betaC. The growth effect) Tj
+0 -15 Td
+(depends on how investment is split between capital-goods and consumer-goods sectors.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Prioritizing capital goods can strengthen future productive capacity but may suppress short-run) Tj
+0 -15 Td
+(consumption and delay employment absorption if complementary sectors lag.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(India's heavy-industry strategy built strategic capability, yet sequencing costs were real where) Tj
+0 -15 Td
+(consumer supply and labour-intensive expansion remained constrained.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(The modern lesson is complementarity: industrial deepening works best with logistics, agricultural) Tj
+0 -15 Td
+(productivity, human capital, and governance reforms.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.3 The Solow Growth Model) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Solow introduces diminishing returns and factor substitution. With CRS, per-worker output is y = f\(k\),) Tj
+0 -15 Td
+(and capital deepening follows dk/dt = sf\(k\) - \(n+delta\)k.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(The steady state k* is where actual investment equals break-even investment. This creates stable) Tj
+0 -15 Td
+(dynamics absent in Harrod's knife edge.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Comparative statics are intuitive: higher s raises k* and y* levels; higher n or delta lowers them.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Without technological progress, long-run per-capita growth tends to zero. Sustained per-capita growth) Tj
+0 -15 Td
+(therefore requires exogenous productivity growth in the baseline model.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.3.4 Convergence: Absolute vs Conditional) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Absolute convergence predicts poorer economies grow faster if structural parameters are identical.) Tj
+0 -15 Td
+(Conditional convergence allows each economy to converge to its own steady state.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Indian state data are more consistent with conditional convergence because states differ in) Tj
+0 -15 Td
+(governance, infrastructure, education quality, and industrial ecosystems.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Thus, poorer states can catch up only when structural constraints improve alongside capital) Tj
+0 -15 Td
+(accumulation.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This has direct policy relevance for federal strategy: one-size-fits-all growth policy underperforms) Tj
+0 -15 Td
+(in heterogeneous institutional settings.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 2565 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 4) Tj
+0 -19 Td
+/F1 14 Tf
+(3.3.5 Golden Rule and Welfare) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Steady-state consumption per worker is c* = f\(k*\) - \(n+delta\)k*. Golden-rule capital maximizes c* and) Tj
+0 -15 Td
+(satisfies f'\(kGR\) = n+delta.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(If an economy is below kGR, higher saving can raise future consumption; if above kGR, over-saving) Tj
+0 -15 Td
+(reduces consumption.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Golden-rule analysis clarifies that growth policy should evaluate welfare composition, not just output) Tj
+0 -15 Td
+(targets.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(For India, the practical interpretation includes balancing infrastructure build-out with social) Tj
+0 -15 Td
+(expenditure and household consumption needs.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.3.6-3.3.7 Solow Residual and Technology) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Growth accounting decomposes output growth: gY = gA + alpha gK + \(1-alpha\)gL. The residual gA is TFP) Tj
+0 -15 Td
+(growth.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(TFP captures innovation, efficiency, reallocation, management quality, and measurement error. It is) Tj
+0 -15 Td
+(often called a measure of our ignorance.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(In policy terms, TFP is where institutional quality, competition, logistics, and technology diffusion) Tj
+0 -15 Td
+(appear.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(A 7%+ growth ambition for India requires both sustained investment and broad-based TFP acceleration.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.4 Human Capital and MRW Extension) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(MRW extends Solow with human capital: Y = K^alpha H^beta \(AL\)^\(1-alpha-beta\). This improves empirical) Tj
+0 -15 Td
+(fit and reduces over-attribution to physical capital.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(India's development bottleneck is increasingly quality-adjusted human capital: learning outcomes,) Tj
+0 -15 Td
+(health status, and employable skills.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Returns to education differ sharply across regions due to quality heterogeneity, mismatch with labour) Tj
+0 -15 Td
+(demand, and formal-informal segmentation.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Policy must move from enrollment metrics toward learning, health, skilling quality, and labour-market) Tj
+0 -15 Td
+(matching systems.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.5 Endogenous Growth Theory) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(AK models remove diminishing returns in broad capital and generate persistent growth: g = sA - delta.) Tj
+0 -15 Td
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 2759 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 5) Tj
+0 -19 Td
+() Tj
+0 -15 Td
+(Romer-style models emphasize ideas as non-rival inputs. Knowledge spillovers create social returns) Tj
+0 -15 Td
+(above private returns, rationalizing innovation policy.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(India's IT expansion shows endogenous channels: clustering, learning-by-doing, and network spillovers.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(The challenge is diffusion beyond frontier service clusters into manufacturing, MSMEs, and lagging) Tj
+0 -15 Td
+(regions.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.6 Real Business Cycle Theory) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(RBC views cycles as equilibrium responses to real shocks in a frictionless optimizing economy.) Tj
+0 -15 Td
+(Technology shocks move the production frontier and induce optimal intertemporal adjustments.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Predictions include procyclical labour input, smoother consumption than output, and highly volatile) Tj
+0 -15 Td
+(investment.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(RBC implies limited stabilization role under complete markets and flexible prices.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Critiques emphasize unrealistic labour-supply elasticities and weak fit for crises with nominal and) Tj
+0 -15 Td
+(financial frictions. India's monsoon and oil shocks can resemble RBC disturbances, but COVID collapse) Tj
+0 -15 Td
+(cannot be explained as a simple optimal technology response.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.7 Institutions, Geography, and Deeper Causes) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Institutional theories stress rule of law, property rights, and state capability. Geography theories) Tj
+0 -15 Td
+(stress disease burden, transport costs, and climate constraints.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(In India, interstate variation reveals strong institutional effects on investment and productivity.) Tj
+0 -15 Td
+(Geography still matters through climate risk and market access.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Culture-based explanations may add insight but are hard to identify causally due to co-evolution with) Tj
+0 -15 Td
+(institutions and income.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(A practical synthesis: geography sets constraints, institutions shape adaptation, and policy plus) Tj
+0 -15 Td
+(technology determine realized outcomes.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(3.8 Schools of Thought on Growth Policy) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Classical approach: remove distortions, maintain macro stability, and let markets allocate resources.) Tj
+0 -15 Td
+(India's 1991 reforms are a key example.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Keynesian-structuralist approach: market failures in development justify targeted industrial and) Tj
+0 -15 Td
+(coordination policy.) Tj
+0 -15 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Length 2676 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 6) Tj
+0 -19 Td
+() Tj
+0 -15 Td
+(New growth approach: scale ideas, R&D, and high-quality human capital.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Institutional approach: governance-first logic, emphasizing implementation capacity and accountability) Tj
+0 -15 Td
+(as preconditions for productive capital allocation.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(Case Study 3.1: Can India Sustain 7%+ Growth?) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(With alpha = 0.35, gK = 8.0%, and gL = 1.5%, factor accumulation contributes 3.775 percentage points.) Tj
+0 -15 Td
+(To achieve 7.0% output growth, required TFP growth is about 3.225%.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This target is demanding and indicates that investment scale alone is insufficient. Logistics) Tj
+0 -15 Td
+(efficiency, legal quality, competition, education quality, and innovation diffusion must improve) Tj
+0 -15 Td
+(simultaneously.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(If TFP slows materially, aggregate growth declines even with robust capital accumulation.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Policy durability and implementation quality therefore determine whether high-growth episodes become) Tj
+0 -15 Td
+(sustained trajectories.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(Debate 3.1: Institutions vs Geography) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(Institutions-first view: governance quality explains divergence in investment climate, service) Tj
+0 -15 Td
+(delivery, and productivity growth.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Geography-first view: agro-climatic risk, coastal access, and climate stress create persistent) Tj
+0 -15 Td
+(structural differences.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Synthesis: institutions mediate geography. High-capability states can offset physical disadvantages) Tj
+0 -15 Td
+(better than low-capability states can exploit favorable endowments.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(For policy, this implies adaptation strategy: build state capacity, resilience infrastructure, and) Tj
+0 -15 Td
+(technology systems tailored to local constraints.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+/F1 13 Tf
+(Review, Recap, and Instructor Notes) Tj
+/F1 11 Tf
+0 -15 Td
+() Tj
+0 -15 Td
+(This chapter connects classical foundations to contemporary growth and cycle theory with India-) Tj
+0 -15 Td
+(specific interpretation.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Teaching sequence recommendation: start with benchmark models, then layer frictions and institutions,) Tj
+0 -15 Td
+(then apply via case studies and decomposition exercises.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Assessment recommendation: combine derivations, diagrams, and policy memos to test analytical and) Tj
+0 -15 Td
+(applied competence.) Tj
+0 -15 Td
+ET
+endstream
+endobj
+10 0 obj
+<< /Length 273 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 7) Tj
+0 -19 Td
+() Tj
+0 -15 Td
+(Core message: sustained growth is jointly determined by capital, human capability, ideas,) Tj
+0 -15 Td
+(institutions, and adaptation to geography.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+ET
+endstream
+endobj
+11 0 obj
+<< /Length 308 >>
+stream
+BT
+/F1 14 Tf
+48 800 Td
+(Graphical Analysis 1) Tj
+/F1 10 Tf
+0 -22 Td
+(Page 10) Tj
+ET
+0.7 w
+50 120 500 620 re S
+70 180 m 520 180 l S
+90 160 m 480 420 l S
+90 420 m 480 160 l S
+250 290 6 0 360 arc S
+BT /F1 10 Tf 490 150 Td (Ld) Tj ET
+BT /F1 10 Tf 490 410 Td (Ls) Tj ET
+BT /F1 10 Tf 265 300 Td (Equilibrium) Tj ET
+endstream
+endobj
+12 0 obj
+<< /Length 292 >>
+stream
+BT
+/F1 14 Tf
+48 800 Td
+(Graphical Analysis 2) Tj
+/F1 10 Tf
+0 -22 Td
+(Page 11) Tj
+ET
+0.7 w
+50 120 500 620 re S
+70 180 m 520 180 l S
+70 180 m 70 700 l S
+120 180 35 110 re S
+190 180 35 150 re S
+260 180 35 190 re S
+330 180 35 230 re S
+400 180 35 270 re S
+90 250 m 480 450 l S
+90 250 m 480 320 l S
+endstream
+endobj
+13 0 obj
+<< /Length 324 >>
+stream
+BT
+/F1 14 Tf
+48 800 Td
+(Graphical Analysis 3) Tj
+/F1 10 Tf
+0 -22 Td
+(Page 12) Tj
+ET
+0.7 w
+50 120 500 620 re S
+70 180 m 520 180 l S
+70 180 m 70 700 l S
+80 200 m 120 250 l S
+120 250 m 170 300 l S
+170 300 m 230 350 l S
+230 350 m 300 400 l S
+300 400 m 380 450 l S
+380 450 m 470 500 l S
+80 210 m 500 500 l S
+260 180 m 260 520 l S
+endstream
+endobj
+14 0 obj
+<< /Length 369 >>
+stream
+BT
+/F1 14 Tf
+48 800 Td
+(Graphical Analysis 4) Tj
+/F1 10 Tf
+0 -22 Td
+(Page 13) Tj
+ET
+0.7 w
+50 120 500 620 re S
+70 180 m 520 180 l S
+70 180 m 70 700 l S
+90 620 m 500 260 l S
+100 580 4 0 360 arc S
+130 530 4 0 360 arc S
+160 510 4 0 360 arc S
+210 470 4 0 360 arc S
+240 430 4 0 360 arc S
+300 390 4 0 360 arc S
+350 340 4 0 360 arc S
+390 320 4 0 360 arc S
+440 280 4 0 360 arc S
+endstream
+endobj
+15 0 obj
+<< /Length 324 >>
+stream
+BT
+/F1 14 Tf
+48 800 Td
+(Graphical Analysis 5) Tj
+/F1 10 Tf
+0 -22 Td
+(Page 14) Tj
+ET
+0.7 w
+50 120 500 620 re S
+70 180 m 520 180 l S
+70 180 m 70 700 l S
+150 180 65 170 re S
+260 180 65 95 re S
+370 180 65 240 re S
+BT /F1 10 Tf 160 160 Td (Capital) Tj ET
+BT /F1 10 Tf 272 160 Td (Labour) Tj ET
+BT /F1 10 Tf 395 160 Td (TFP) Tj ET
+endstream
+endobj
+16 0 obj
+<< /Length 721 >>
+stream
+BT
+/F1 14 Tf
+48 800 Td
+(Graphical Analysis 6) Tj
+/F1 10 Tf
+0 -22 Td
+(Page 15) Tj
+ET
+0.7 w
+50 120 500 620 re S
+70 420 m 520 420 l S
+80 430 m 120 460 l S
+120 460 m 160 500 l S
+160 500 m 200 450 l S
+200 450 m 240 380 l S
+240 380 m 280 360 l S
+280 360 m 320 410 l S
+320 410 m 360 470 l S
+360 470 m 420 520 l S
+420 520 m 480 490 l S
+80 425 m 120 440 l S
+120 440 m 160 460 l S
+160 460 m 200 435 l S
+200 435 m 240 400 l S
+240 400 m 280 390 l S
+280 390 m 320 420 l S
+320 420 m 360 450 l S
+360 450 m 420 470 l S
+420 470 m 480 455 l S
+80 440 m 120 500 l S
+120 500 m 160 560 l S
+160 560 m 200 470 l S
+200 470 m 240 330 l S
+240 330 m 280 300 l S
+280 300 m 320 390 l S
+320 390 m 360 510 l S
+360 510 m 420 590 l S
+420 590 m 480 530 l S
+endstream
+endobj
+17 0 obj
+<< /Length 1087 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 16) Tj
+0 -19 Td
+(Appendix Recap Note 1) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+18 0 obj
+<< /Length 1087 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 17) Tj
+0 -19 Td
+(Appendix Recap Note 2) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+19 0 obj
+<< /Length 1087 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 18) Tj
+0 -19 Td
+(Appendix Recap Note 3) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+20 0 obj
+<< /Length 1087 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 19) Tj
+0 -19 Td
+(Appendix Recap Note 4) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+21 0 obj
+<< /Length 1087 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 20) Tj
+0 -19 Td
+(Appendix Recap Note 5) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+22 0 obj
+<< /Length 1087 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 21) Tj
+0 -19 Td
+(Appendix Recap Note 6) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+23 0 obj
+<< /Length 1087 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 22) Tj
+0 -19 Td
+(Appendix Recap Note 7) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+24 0 obj
+<< /Length 1087 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 23) Tj
+0 -19 Td
+(Appendix Recap Note 8) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+25 0 obj
+<< /Length 1087 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 24) Tj
+0 -19 Td
+(Appendix Recap Note 9) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+26 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 25) Tj
+0 -19 Td
+(Appendix Recap Note 10) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+27 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 26) Tj
+0 -19 Td
+(Appendix Recap Note 11) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+28 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 27) Tj
+0 -19 Td
+(Appendix Recap Note 12) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+29 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 28) Tj
+0 -19 Td
+(Appendix Recap Note 13) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+30 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 29) Tj
+0 -19 Td
+(Appendix Recap Note 14) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+31 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 30) Tj
+0 -19 Td
+(Appendix Recap Note 15) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+32 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 31) Tj
+0 -19 Td
+(Appendix Recap Note 16) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+33 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 32) Tj
+0 -19 Td
+(Appendix Recap Note 17) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+34 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 33) Tj
+0 -19 Td
+(Appendix Recap Note 18) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+35 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 34) Tj
+0 -19 Td
+(Appendix Recap Note 19) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+36 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 35) Tj
+0 -19 Td
+(Appendix Recap Note 20) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+37 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 36) Tj
+0 -19 Td
+(Appendix Recap Note 21) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+38 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 37) Tj
+0 -19 Td
+(Appendix Recap Note 22) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+39 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 38) Tj
+0 -19 Td
+(Appendix Recap Note 23) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+40 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 39) Tj
+0 -19 Td
+(Appendix Recap Note 24) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+41 0 obj
+<< /Length 1088 >>
+stream
+BT
+/F1 11 Tf
+48 800 Td
+(Chapter 3: Economic Growth Theory - Page 40) Tj
+0 -19 Td
+(Appendix Recap Note 25) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(This page extends classroom commentary on assumptions, identification, and policy interpretation.) Tj
+0 -15 Td
+(Use it for tutorial discussion on model fit, empirical caveats, and state-level heterogeneity in India.) Tj
+0 -15 Td
+(Key checklist:) Tj
+0 -15 Td
+(- distinguish level effects from growth-rate effects;) Tj
+0 -15 Td
+(- separate accounting identities from behavioral mechanisms;) Tj
+0 -15 Td
+(- map theory assumptions to institutional preconditions;) Tj
+0 -15 Td
+(- test robustness with alternative parameter values;) Tj
+0 -15 Td
+(- compare formal vs informal sector transmission channels.) Tj
+0 -15 Td
+() Tj
+0 -15 Td
+(Suggested oral prompts:) Tj
+0 -15 Td
+(1\) Which assumptions are most violated in developing economies?) Tj
+0 -15 Td
+(2\) Where should policy target productivity versus accumulation?) Tj
+0 -15 Td
+(3\) How do institutions alter convergence paths?) Tj
+0 -15 Td
+(4\) What shocks are truly RBC-consistent for India?) Tj
+0 -15 Td
+ET
+endstream
+endobj
+42 0 obj
+<< /Type /Pages /Kids [43 0 R 44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R 54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R 64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 71 0 R 72 0 R 73 0 R 74 0 R 75 0 R 76 0 R 77 0 R 78 0 R 79 0 R 80 0 R 81 0 R 82 0 R] /Count 40 >>
+endobj
+43 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+44 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+45 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+46 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 5 0 R >>
+endobj
+47 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+48 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 7 0 R >>
+endobj
+49 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 8 0 R >>
+endobj
+50 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 9 0 R >>
+endobj
+51 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 10 0 R >>
+endobj
+52 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 11 0 R >>
+endobj
+53 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 12 0 R >>
+endobj
+54 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 13 0 R >>
+endobj
+55 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 14 0 R >>
+endobj
+56 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 15 0 R >>
+endobj
+57 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 16 0 R >>
+endobj
+58 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 17 0 R >>
+endobj
+59 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 18 0 R >>
+endobj
+60 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 19 0 R >>
+endobj
+61 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 20 0 R >>
+endobj
+62 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 21 0 R >>
+endobj
+63 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 22 0 R >>
+endobj
+64 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 23 0 R >>
+endobj
+65 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 24 0 R >>
+endobj
+66 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 25 0 R >>
+endobj
+67 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 26 0 R >>
+endobj
+68 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 27 0 R >>
+endobj
+69 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 28 0 R >>
+endobj
+70 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 29 0 R >>
+endobj
+71 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 30 0 R >>
+endobj
+72 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 31 0 R >>
+endobj
+73 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 32 0 R >>
+endobj
+74 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 33 0 R >>
+endobj
+75 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 34 0 R >>
+endobj
+76 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 35 0 R >>
+endobj
+77 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 36 0 R >>
+endobj
+78 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 37 0 R >>
+endobj
+79 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 38 0 R >>
+endobj
+80 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 39 0 R >>
+endobj
+81 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 40 0 R >>
+endobj
+82 0 obj
+<< /Type /Page /Parent 42 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 41 0 R >>
+endobj
+83 0 obj
+<< /Type /Catalog /Pages 42 0 R >>
+endobj
+xref
+0 84
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000000568 00000 n 
+0000001529 00000 n 
+0000004800 00000 n 
+0000007819 00000 n 
+0000010734 00000 n 
+0000013351 00000 n 
+0000016162 00000 n 
+0000018890 00000 n 
+0000019215 00000 n 
+0000019575 00000 n 
+0000019919 00000 n 
+0000020295 00000 n 
+0000020716 00000 n 
+0000021092 00000 n 
+0000021865 00000 n 
+0000023005 00000 n 
+0000024145 00000 n 
+0000025285 00000 n 
+0000026425 00000 n 
+0000027565 00000 n 
+0000028705 00000 n 
+0000029845 00000 n 
+0000030985 00000 n 
+0000032125 00000 n 
+0000033266 00000 n 
+0000034407 00000 n 
+0000035548 00000 n 
+0000036689 00000 n 
+0000037830 00000 n 
+0000038971 00000 n 
+0000040112 00000 n 
+0000041253 00000 n 
+0000042394 00000 n 
+0000043535 00000 n 
+0000044676 00000 n 
+0000045817 00000 n 
+0000046958 00000 n 
+0000048099 00000 n 
+0000049240 00000 n 
+0000050381 00000 n 
+0000050714 00000 n 
+0000050842 00000 n 
+0000050970 00000 n 
+0000051098 00000 n 
+0000051226 00000 n 
+0000051354 00000 n 
+0000051482 00000 n 
+0000051610 00000 n 
+0000051738 00000 n 
+0000051867 00000 n 
+0000051996 00000 n 
+0000052125 00000 n 
+0000052254 00000 n 
+0000052383 00000 n 
+0000052512 00000 n 
+0000052641 00000 n 
+0000052770 00000 n 
+0000052899 00000 n 
+0000053028 00000 n 
+0000053157 00000 n 
+0000053286 00000 n 
+0000053415 00000 n 
+0000053544 00000 n 
+0000053673 00000 n 
+0000053802 00000 n 
+0000053931 00000 n 
+0000054060 00000 n 
+0000054189 00000 n 
+0000054318 00000 n 
+0000054447 00000 n 
+0000054576 00000 n 
+0000054705 00000 n 
+0000054834 00000 n 
+0000054963 00000 n 
+0000055092 00000 n 
+0000055221 00000 n 
+0000055350 00000 n 
+0000055479 00000 n 
+0000055608 00000 n 
+0000055737 00000 n 
+0000055866 00000 n 
+trailer
+<< /Size 84 /Root 83 0 R >>
+startxref
+55917
+%%EOF
